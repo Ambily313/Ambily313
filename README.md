@@ -31,7 +31,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### Others
+## Others
 - Data Cleaning.
 - Feature Engineering.
 - Model Deployment.
