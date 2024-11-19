@@ -1,6 +1,7 @@
 # Hi, I'm Ambily 👋
 
 ## About Me 📚👩‍🎓👩‍💻
+
 I’m an aspiring data scientist passionate about machine learning, deep learning, and AI. With hands-on experience in building and deploying predictive models, I am continuously enhancing my skills by working on real-world projects. I’m particularly excited about exploring natural language processing and generative AI, and I am eager to grow my expertise in this dynamic field. 
 
 <br>
